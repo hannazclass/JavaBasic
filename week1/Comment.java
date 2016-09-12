@@ -1,18 +1,18 @@
-package com.hb.java.week1;
+package week1;
 
 public class Comment {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
-		 * ÁÖ¼®Àº ½ÇÇàÀÌ µÇÁö ¾Ê½À´Ï´Ù.
-		 * ºí¶óºí¶óºí¶ó
+		 * ì£¼ì„ì€ ì‹¤í–‰ì´ ë˜ì§€ ì•ŠìŠµë‹ˆë‹¤.
+		 * ë¸”ë¼ë¸”ë¼ë¸”ë¼
 		 */
-		//´ÜÀÏ ÁÖ¼® ´ÜÃàÅ° ctrl+/
-		//¹®Àå ÁÖ¼® ´ÜÃàÅ° ctrl+shift+/,ctrl+shift+\ 
-		System.out.println("±èÇÑ³ª");
-		System.out.println("±èÇÑ³ª");
-		System.out.println("±èÇÑ³ª");
+		//ë‹¨ì¼ ì£¼ì„ ë‹¨ì¶•í‚¤ ctrl+/
+		//ë¬¸ì¥ ì£¼ì„ ë‹¨ì¶•í‚¤ ctrl+shift+/,ctrl+shift+\ 
+		System.out.println("ê¹€í•œë‚˜");
+		System.out.println("ê¹€í•œë‚˜");
+		System.out.println("ê¹€í•œë‚˜");
 		
 	}
 
