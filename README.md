@@ -11,5 +11,5 @@ java 기초문법에 대해 알아봅시다.
     5. 자료형
     6. 연산자
     7. 제어문
-    8. 배열 [Array](http://github.com/hannazclass/JavaBasic/week1/array.md)
+    8. 배열 [Array](http://github.com/hannazclass/JavaBasic/week1/array.md, "array")
     
