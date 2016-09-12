@@ -11,7 +11,7 @@ java 기초문법에 대해 알아봅시다.
 * [자료형](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_5.md)
 * [연산자](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_6.md)
 * [제어문](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_7.md)
-* [배열-Array](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_8.md)
+* [배열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_8.md)
     
 ### week2
 * [객체지향의 개념](https://github.com/hannazclass/JavaBasic/blob/master/week2/week2_1.md)
