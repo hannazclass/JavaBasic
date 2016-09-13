@@ -28,7 +28,6 @@
 ```
 
 ## 2.1. JDK설치
-<http://www.oracle.com/technetwork/java/index.html>
 <http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>
 ```
 다운로드 목록에서 java SE Downloads를 클릭하시고 jdk를 자신의 운영체제에 맞는 걸로 다운받으세요.
@@ -36,11 +35,11 @@
 ```
 
 ### 2.1.1. 환경변수 설정
+<http://www.java.com/ko/download/help/path.xml>
 ```
 PATH 값을 영구설정하려면 "내컴퓨터" --> 고급설정 --> 환경변수 --> PATH 값에 
 jdk경로(예:C:\Program Files\Java\jdk1.8.0_20\bin)를 추가해 주면 됩니다.
 ```
-<http://www.java.com/ko/download/help/path.xml>
 
 ## 2.2. 이클립스설치
 <http://www.eclipse.org/>
