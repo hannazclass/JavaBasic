@@ -6,7 +6,7 @@ java 기초문법에 대해 알아봅시다.
 ### week1
 * [자바의 개념](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_1.md)
 * [jdk, eclipse 설치](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_2.md)
-* [주석문, 식별자, 예약어](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_3.md)
+* [자바개발순서, 주석문, 식별자, 예약어](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_3.md)
 * [변수, 상수, 문자열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_4.md)
 * [자료형](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_5.md)
 * [연산자](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_6.md)
