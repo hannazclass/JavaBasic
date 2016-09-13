@@ -1,17 +1,27 @@
 ### 메인가기 [go](https://github.com/hannazclass/JavaBasic/blob/master/README.md)
 ### week1
-* [자바의 개념](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_1.md)
-* [jdk, eclipse 설치](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_2.md)
-* [주석문, 식별자, 예약어](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_3.md)
-* [변수, 상수, 문자열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_4.md)
-* [자료형](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_5.md)
-* [연산자](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_6.md)
-* [제어문](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_7.md)
-* [배열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_8.md)
+* 1. [자바의 개념](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_1.md)
+* 2. [jdk, eclipse 설치](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_2.md)
+* 3. [주석문, 식별자, 예약어](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_3.md)
+* 4. [변수, 상수, 문자열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_4.md)
+* 5. [자료형](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_5.md)
+* 6. [연산자](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_6.md)
+* 7. [제어문](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_7.md)
+* 8. [배열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_8.md)
 
 ****
 # 1. 자바의 개념
-## 1.1. 자바의 특징
+## 1.1. 자바란?
+```
+- 1995년에 썬 마이크로시스템즈에서 발표한 객체지향 언어
+- 현재 썬 마이크로시스템즈는 오라클에 인수가 된 상태
+
+자바를 배우게되면 어떤 일을 할 수 있을까요?
+-서버프로그래밍 서버, 클라이언트 프로그램개발(네트워크, 통신)
+-웹프로그래밍 웹브라우저에 실행되는 웹어플리케이션 개발 가능(JSP를 배우셔야합니다.)
+-모바일 어플리케이션 프로그래밍(안드로이드) 자바문법을 기반으로 되어 있습니다.
+```
+## 1.2. 자바의 특징
 
 ### 배우기쉽다
 자바는 C++를 기반으로 만들어진 언어입니다. C++에 있는 필요성이 낮고 다루기가 힘든부분을 개발자가 작업하는 영역에서 제거하였기때문에 
@@ -39,13 +49,13 @@ C나 C++은 메모리를 할당하거나 다 사용한 메모리를 회수하는
 ### 멀티스레드
 스레드는 프로그램의 수행단위를 말합니다. 스레드인데 멀티가 붙었기 때문에 한 프로그램을 수행하는 단위가 여러개 있다는 뜻입니다. 일을 처리하는데 하나보다는 둘이상 있는게 당연히 수행 속도가 빠르겠죠.
 
-## 1.2. 자바플랫폼
+## 1.3. 자바플랫폼
 자바 플랫폼이라는 것이 있는데 자바를 실행하기 위해 필요한 프로그램입니다.
 ```
 API - 클래스와 인터페이스들이 묶여져있는 패키지
 JVM 자바가상머신 - 명령어와 레지스터의 집합, 스택, 힙, 메서드 영역으로 구성
 ```
-## 1.3. 자바 플랫폼의 종류
+## 1.4. 자바 플랫폼의 종류
     SE 일반 데스크탑 PC
     EE 서버용 컴퓨터
     ME 모바일
