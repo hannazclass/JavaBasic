@@ -2,7 +2,7 @@
 ### week1
 * [자바의 개념](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_1.md)
 * [jdk, eclipse 설치](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_2.md)
-* [주석문, 식별자, 예약어](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_3.md)
+* [자바개발순서, 주석문, 식별자, 예약어](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_3.md)
 * [변수, 상수, 문자열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_4.md)
 * [자료형](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_5.md)
 * [연산자](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_6.md)
@@ -26,3 +26,26 @@
 이클립스는  IDE(Intergrated Development Environment)통합개발환경 중에서 가장 많이 사용하는 프로그램입니다.
 두 개의 소프트웨어는 모두 인터넷에서 무료로 공개되는 소프트웨어입니다.
 ```
+
+## 2.1. JDK설치
+<http://www.oracle.com/technetwork/java/index.html>
+<http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>
+```
+다운로드 목록에서 java SE Downloads를 클릭하시고 jdk를 자신의 운영체제에 맞는 걸로 다운받으세요.
+윈도우 운영체제 비트수 확인- 내컴퓨터-오른쪽클릭 속성에서 비트수를 확인합니다.
+```
+
+### 2.1.1. 환경변수 설정
+```
+PATH 값을 영구설정하려면 "내컴퓨터" --> 고급설정 --> 환경변수 --> PATH 값에 
+jdk경로(예:C:\Program Files\Java\jdk1.8.0_20\bin)를 추가해 주면 됩니다.
+```
+<http://www.java.com/ko/download/help/path.xml>
+
+## 2.2. 이클립스설치
+<http://www.eclipse.org/>
+
+
+
+
+
