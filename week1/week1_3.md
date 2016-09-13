@@ -33,7 +33,7 @@ java, javac는 어디곳에서도 실행할 수 있습니다.
 ```
 
 ## 3.2. HelloWorld출력하기
-    +실습)HelloWorld.java
+*실습)HelloWorld.java*
 ```
 그럼 간단하게 코드를 작성해보겠습니다.
 우선 C드라이브에 작업폴더를 만들어줍니다.
