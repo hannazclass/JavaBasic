@@ -1,13 +1,13 @@
 ### 메인가기 [go](https://github.com/hannazclass/JavaBasic/blob/master/README.md)
 ### week1
-* 1. [자바의 개념](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_1.md)
-* 2. [jdk, eclipse 설치](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_2.md)
-* 3. [주석문, 식별자, 예약어](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_3.md)
-* 4. [변수, 상수, 문자열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_4.md)
-* 5. [자료형](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_5.md)
-* 6. [연산자](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_6.md)
-* 7. [제어문](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_7.md)
-* 8. [배열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_8.md)
+* [자바의 개념](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_1.md)
+* [jdk, eclipse 설치](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_2.md)
+* [주석문, 식별자, 예약어](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_3.md)
+* [변수, 상수, 문자열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_4.md)
+* [자료형](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_5.md)
+* [연산자](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_6.md)
+* [제어문](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_7.md)
+* [배열](https://github.com/hannazclass/JavaBasic/blob/master/week1/week1_8.md)
 
 ****
 # 1. 자바의 개념
